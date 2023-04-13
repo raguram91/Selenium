@@ -6,7 +6,6 @@ package example.example.context;
  * @author Bharathish
  */
 public class Constants {
-/*TEst ragu added*/
 	/** The Constant WORKING_DIRECTORY. */
 	public static final String WORKING_DIRECTORY = System.getProperty("user.dir");
 
